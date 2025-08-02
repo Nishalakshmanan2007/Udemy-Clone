@@ -17,7 +17,7 @@ A clean and minimal layout built using **HTML5** and **CSS3**. Focused on semant
 
 ## Live Link
 
-[View Project Live](https://your-live-link-here.com)
+[View Project Live]( https://nishalakshmanan2007.github.io/Udemy-Clone/)
 
 ---
 
